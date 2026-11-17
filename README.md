@@ -115,11 +115,19 @@ See the `LICENSE` file for full terms.
 
 ---
 
+## 🤝 Co Authors
+
+[Md. Mujahidul Haque Jihad](https://github.com/mujahidulhaquejihad)
+
+[Erfan Khan](https://github.com/Erfan-Khan-Dhrubo)
+
+---
+
 ## 📚 Citation (APA)
 
 If you use this work in academic or research contexts, please cite:
 
-Hritom, R. (2026). *Multi-Class Text Classification: A Comparative Analysis* https://github.com/rezwanhritom/Multi-Class-Text-Classification-A-Comparative-Analysis
+Hritom, R., Jihad, M. M. H., & Khan, E. (2026). *Multi-Class Text Classification: A Comparative Analysis* https://github.com/rezwanhritom/Multi-Class-Text-Classification-A-Comparative-Analysis
 
 ---
 
